@@ -3,7 +3,7 @@
 # 🔒Password Manager🔒
 A simple and secure password manager built in C#, using AES encryption to safely store passwords.
 
-[![Platform](https://img.shields.io/badge/platform-Windows-black.svg)](#platform)  [![Built With](https://img.shields.io/badge/built%20with-C%23-blue.svg)](https://docs.microsoft.com/dotnet/csharp/)    <img src="https://img.shields.io/github/stars/farnaztr/Password_Manager?style=social" />
+[![Platform](https://img.shields.io/badge/platform-Windows-black.svg)](#platform)  [![Built With](https://img.shields.io/badge/built%20with-C%23-blue.svg)](https://docs.microsoft.com/dotnet/csharp/)    <img src="https://img.shields.io/github/stars/BxharwAhmadi/Password_Manager?style=social" />
 
 </div>
 
@@ -22,9 +22,9 @@ A simple and secure password manager built in C#, using AES encryption to safely
 
 ## Contributors
 
-- [[Bahar](https://github.com/BxharAhmadi)]
-- [[TankeBiPelak](https://github.com/TankeBiPelak)]
 - [[Farnaz](https://github.com/Farnaztr)]
+- [[TankeBiPelak](https://github.com/TankeBiPelak)]
+- [[Bahar](https://github.com/BxharAhmadi)]
 
 --- 
 
