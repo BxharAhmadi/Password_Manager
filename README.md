@@ -9,6 +9,7 @@ A simple and secure password manager built in C#, using AES encryption to safely
 
 ---
 
+
 ## Features
 
 - Master Password Protection at startup  
