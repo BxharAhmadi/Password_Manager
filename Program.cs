@@ -220,6 +220,7 @@ namespace Password_Manager
             bool running = true;
             while (running)
             {
+                
                 Console.WriteLine("\nMenu:");
                 Console.WriteLine("1 - Add Record");
                 Console.WriteLine("2 - List Records");
@@ -230,6 +231,7 @@ namespace Password_Manager
                 Console.Write("Choice: ");
                 string choice = Console.ReadLine();
 
+                
                 switch (choice)
                 {
                     case "1": AddRecord(records); break;
@@ -251,7 +253,8 @@ namespace Password_Manager
             }
 
             SaveRecordsToFile(records, password, existingSalt);
-            Console.WriteLine("Vault saved successfully.");
+            Console.WriteLine("Vault saved successfully");
         }
     }
 }
+
